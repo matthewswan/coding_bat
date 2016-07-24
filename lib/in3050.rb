@@ -3,5 +3,3 @@ def in3050(a, b)
     (40..50).include?(a) && (40..50).include?(b)
   return false
 end
-
-in3050(40, 50)
