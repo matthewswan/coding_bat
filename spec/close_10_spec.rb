@@ -1,4 +1,4 @@
-require 'close10'
+require 'close_10'
 
 describe 'the nearest value to 10' do
   context 'the closest of the 2 numbers to 10' do

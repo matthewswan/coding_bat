@@ -1,4 +1,4 @@
-require 'max1020'
+require 'max_1020'
 
 describe 'Give 2 positive integer values, return the larger value that
           is in the range 10..20 inclusive, or return 0 if neither is
