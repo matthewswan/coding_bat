@@ -1,4 +1,4 @@
-require 'stringE'
+require 'string_E'
 
 describe 'return true if the given string contains betweeen 1 and 3 "e" chars' do
   it 'returns true' do

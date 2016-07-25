@@ -1,4 +1,4 @@
-require 'lastDigit'
+require 'last_digit'
 
 describe 'Give two non-negative int values, return true if
           they have the same last digit, such as with 27 and 57.' do

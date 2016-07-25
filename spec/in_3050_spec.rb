@@ -1,4 +1,4 @@
-require 'in3050'
+require 'in_3050'
 
 describe 'Given 2 int values, return true if they
           are both in the range 30..40 inclusive,
